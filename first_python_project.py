@@ -42,3 +42,7 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+def main():
+    # This function can be used to encapsulate the main logic of the app
+    pass
